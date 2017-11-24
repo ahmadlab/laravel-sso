@@ -1,0 +1,8 @@
+{
+    "name": "ahmadlab/laravel-sso-client",
+    "description": "test package for laravel sso client",
+    "type": "MIT",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
